@@ -1,0 +1,15 @@
+# Backup files
+*.bak
+*.tmp
+
+# Linux temporary files
+*~
+
+# VS Code
+.vscode/
+
+# Backup folder
+backups/
+
+# Ignore student data
+students.txt
